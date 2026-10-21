@@ -107,6 +107,10 @@ this API: a guard that wields fire, water, earth or air.
 
 The [wiki](https://github.com/kadika66/garrison-api/wiki) covers Garrison for server owners and developers.
 
+## Support
+
+Questions and bug reports: the [plugin support channel on Discord](https://discord.gg/ACMTFTz7Sq), or open an issue here.
+
 ## Licence
 
 MIT, see [LICENSE](LICENSE). This covers the API only; the Garrison plugin is proprietary.
