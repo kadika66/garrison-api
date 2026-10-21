@@ -4,7 +4,7 @@ The public API for **Garrison**, a town-guard plugin for [Towny](https://github.
 guards that hold a post, fight the town's enemies, take orders and train up over time.
 
 Use this API to add new kinds of guards, buttons on a guard's menu, trainable abilities, or support for your own war
-plugin. Garrison itself is sold separately <!-- Kad: store link -->; this API is MIT licensed.
+plugin. Garrison itself is [sold on BuiltByBit](https://builtbybit.com/resources/garrison-guards-for-towny.133397/); this API is MIT licensed.
 
 ## Add it to your project
 
